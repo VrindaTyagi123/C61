@@ -1,0 +1,28 @@
+body{
+    background-color: orange;
+}
+
+#bio {
+
+    text-align: center;
+}
+
+.parallax-inner{
+    text-align: center;
+}
+
+.menu{
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+}
+
+#inspiration {
+    width: 100%;
+    height: 800px;
+    background-color: chartreuse;
+}
